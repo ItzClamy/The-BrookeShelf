@@ -36,3 +36,5 @@
 <li>Lambda Functions: For backend operations.</li>
 <li>MySQL Database: For storing and retrieving book information</li>
 
+<H2>Screenshots + demo</H2>
+<h5>Please find all screenshots and demo in the file path: //src/screenshot+demo</h5>
