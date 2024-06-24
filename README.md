@@ -37,4 +37,5 @@
 <li>MySQL Database: For storing and retrieving book information</li>
 
 <H2>Screenshots + demo</H2>
-<h5>Please find all screenshots and demo in the file path: //src/screenshot+demo</h5>
+<h5> Please click on the link to watch the demo: https://drive.google.com/file/d/14izU-1wc7Ii0XayataSE0i5-rXDSn2uw/view?usp=sharing </h5>
+<h5>Please find all screenshots in the file path: //src/screenshot+demo</h5>
